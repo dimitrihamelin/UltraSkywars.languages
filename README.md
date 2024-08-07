@@ -1,4 +1,3 @@
-# UltraSkywars.language_fr
-UltraSkywars Plugin language FR for lang.yml
+UltraSkywars Plugin language lang.yml
 
 Just copie-it on the lang.yml
